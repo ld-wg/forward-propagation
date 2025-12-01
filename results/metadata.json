@@ -1,0 +1,10 @@
+{
+  "dataset_samples": 1024,
+  "dataset_features": 256,
+  "runs_by_config": {
+    "small": 5,
+    "medium": 5,
+    "large": 5,
+    "extreme": 5
+  }
+}
